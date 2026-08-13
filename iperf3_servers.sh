@@ -2,7 +2,7 @@
 
 # iperf3 server batch startup script
 # Usage: ./iperf3_servers.sh
-# Author: wangjf19
+# Author: lizia102
 
 LOG_DIR="iperf3_logs"
 BASE_PORT=5200  # Starting base port number
