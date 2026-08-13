@@ -2,7 +2,7 @@
 
 # Batch startup script for iperf3 clients
 # Usage: ./iperf3_clients.sh [Server IP] [Number of Ports]
-# Author: wangjf19
+# Author: lizia102
 
 # Check if the server IP and number of ports are provided
 if [ -z "$1" ] || [ -z "$2" ]; then
