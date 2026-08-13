@@ -2,7 +2,7 @@
 
 # iperf3 Bandwidth Summary Script - Enhanced Version (No bc Dependency)
 # Usage: ./iperf3_summary.sh [log directory]
-# Author: wangjf19
+# Author: lizia102
 
 LOG_DIR="${1:-iperf3_logs}"  # Default log directory
 
